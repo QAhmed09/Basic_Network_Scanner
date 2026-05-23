@@ -1,13 +1,13 @@
 # Basic Network Scanner (BNS)
 
-At first you should have Python installed. This tool uses only built-in Python libraries, so no external dependencies or `requirements.txt` are needed.
+At first you should have Python installed. 
 
 In Linux/MacOS go to CLI (Terminal) and write:
 
 Bash
 
 ```
-git clone git@github.com:<name>/Basic_Network_Scanner.git
+git clone https://github.com/QAhmed09/Basic_Network_Scanner.git
 cd Basic_Network_Scanner
 chmod +x BNS.py
 ```
