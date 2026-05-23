@@ -14,13 +14,13 @@ chmod +x BNS.py
 
 Now you should know all the commands:
 
-- `h, --help`
+- `-h, --help`
 Displays the help menu and shows how to use all available commands.
-- `t, --target`
+- `-t, --target`
 Specifies the target IP address or Hostname you want to scan (Required).
-- `p, --ports`
+- `-p, --ports`
 Specifies the ports to scan. It supports multiple formats:
-- `common` (Scans ports 1-1024, this is the default).
+- `-common` (Scans ports 1-1024, this is the default).
 - Single port (e.g., `80`).
 - Comma-separated list (e.g., `22,80,443`).
 - Range (e.g., `20-100`).
